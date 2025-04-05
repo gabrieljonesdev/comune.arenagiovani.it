@@ -27,7 +27,7 @@ Gabriel "Matteo" Jones è il presidente del progetto di Arena Giovani
 
 
 #### Modalità di contatto
-gabriel.jones@arenagiovani.it
+[gabriel.jones@arenagiovani.it](mailto:gabriel.jones@arenagiovani.it)
 
 
 
@@ -38,13 +38,12 @@ Senza elezioni
 
 
 #### Pagine competenti
-[Trasparenza](https://comune.arenagiovani.it/it/amministrazione/trasparenza/)
 [Cultura](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/)
-[Biblioteca](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/biblioteca/)
-[Scuola](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/scuola/)
-[Area 1](https://comune.arenagiovani.it/aree-amministrative/aree/1/)
-[Area 2](https://comune.arenagiovani.it/aree-amministrative/aree/2/)
-[Gabriel "Matteo" Jones](https://gabrielmatteojones.link/)
+
+[gabrieljones.it](https://gabrieljones.it/)
+
+[Instagram @gabrielmatteojones](https://instagra.com/gabrielmatteojones)
+
 [gabrieljones.it](https://gabrieljones.it/)
 
 
