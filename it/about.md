@@ -7,7 +7,7 @@ date: 6 febbraio 2025
 img: https://gabriel-jones.online.upid.it/assets/c1.png
 persona: 
 creator: Dipartimento-direttivo
-permalink: /persone/gabrielmatteojones/
+permalink: /about/
 author-username: Ufficio Pubblico
 ---
 About – Arena Giovani
