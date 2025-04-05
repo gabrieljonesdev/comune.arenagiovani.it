@@ -4,7 +4,7 @@ title: About
 descrizione: Sul progetto
 lang: it
 date: 6 febbraio 2025
-img: https://gabriel-jones.online.upid.it/assets/c1.png
+img: /assets/about.png
 persona: 
 creator: Dipartimento-direttivo
 permalink: /about/
