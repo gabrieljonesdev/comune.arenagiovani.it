@@ -14,19 +14,15 @@ author-username: Ufficio Pubblico
 # 👤 **Gabriel "Matteo" Jones** Presidente del progetto 👤  
 
 Gabriel "Matteo" Jones è il presidente del progetto di Arena Giovani
-
-
-# Data di insediamento
+#### Data di insediamento
 1 gennaio 2025
-
-# Competenze
+#### Competenze
 - Culturali
 - Tecnologiche
 - Gestione di un gruppo di lavoro
-# Modalità di entrata nell'ufficio soci: 
+#### Modalità di entrata nell'ufficio soci: 
 Senza elezioni
-
-# Pagine competenti
+#### Pagine competenti
 [Trasparenza](https://comune.arenagiovani.it/it/amministrazione/trasparenza/)
 
 [Cultura](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/)
