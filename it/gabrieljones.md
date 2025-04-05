@@ -42,7 +42,7 @@ Senza elezioni
 
 [gabrieljones.it](https://gabrieljones.it/)
 
-[Instagram @gabrielmatteojones](https://instagra.com/gabrielmatteojones)
+[Instagram @gabrielmatteojones](https://instagram.com/gabrielmatteojones)
 
 [gabrieljones.it](https://gabrieljones.it/)
 
