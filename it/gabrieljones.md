@@ -4,7 +4,7 @@ title: Gabriel "Matteo" Jones
 descrizione: Carica
 lang: it
 date: 6 febbraio 2025
-img: https://gabriel-jones.online.upid.it/assets/c1.png
+img: /assets/gabrieljones (1).png
 persona: 
 creator: Dipartimento-direttivo
 permalink: /persone/gabrielmatteojones/
