@@ -33,7 +33,7 @@ author-username: Gabriel "Matteo" Jones
                     </div>
                     <div class="col">
                           <div class="avatar size-xxl">
-                            <img src="https://gravatar.com/avatar/8cfc128d9a57425c7439f3e5ac981f74" alt="Gabriel Jones">
+                            <img src="https://www.gravatar.com/avatar/8cfc128d9a57425c7439f3e5ac981f74?s=1000" alt="Gabriel Jones">
                           </div>
                     </div>
                 </div>
