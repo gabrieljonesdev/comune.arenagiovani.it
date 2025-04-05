@@ -26,6 +26,12 @@ Gabriel "Matteo" Jones è il presidente del progetto di Arena Giovani
 
 
 
+#### Modalità di contatto
+gabriel.jones@arenagiovani.it
+
+
+
+
 #### Modalità di entrata nell'ufficio soci: 
 Senza elezioni
 
